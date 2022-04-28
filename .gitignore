@@ -150,3 +150,5 @@ static/
 posts/static/
 media/
 
+/git_priv_rsa
+/git_priv_rsa.pub
