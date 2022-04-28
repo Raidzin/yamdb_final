@@ -12,8 +12,8 @@ services:
   web:
     image: raidzin/yamdb_fin:latest
     volumes:
-      - static_value:/app/static/
-      - media_value:/app/media/
+      - static_value:/api_yamdb/static/
+      - media_value:/api_yamdb/media/
     depends_on:
       - db
     env_file:
