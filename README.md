@@ -14,7 +14,7 @@
 | |__/ / |_| ( (___| |< ( (/ /| |      | |____( (_| | | |__| | |_| | | | |
 |_____/ \___/ \____)_| \_)____)_|      |_______)____|_|\___)_|\___/|_| |_|
 ```
-![build_and_test](https://github.com/Raidzin/yamdb_final/actions/workflows/yamdb-workflow.yml/badge.svg)
+![build_and_test](https://github.com/raidzin/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
                                                                         
   
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Titles). 
