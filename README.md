@@ -85,7 +85,7 @@
   docker-compose up
   ```
 
-## [Ссылка на рабочий сервер](http://raidzin.ddns.net:8000/)
+## [Ссылка на рабочий сервер](http://raidzin.ddns.net:8000/api/v1/)
 
 ## Авторы проекта:
 - [Алексей Гончарук](https://github.com/Raidzin "Github") (api_yamdb:docker edition final)
