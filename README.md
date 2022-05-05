@@ -85,8 +85,7 @@
   docker-compose up
   ```
 
-## ~~Тут должа быть ссылка на сайт но он запущен на локальной малине и не виден из сети~~
-
+## [Ссылка на рабочий сервер](http://raidzin.ddns.net:8000/)
 
 ## Авторы проекта:
 - [Алексей Гончарук](https://github.com/Raidzin "Github") (api_yamdb:docker edition final)
